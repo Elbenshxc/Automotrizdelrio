@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" role="img" aria-label="Automotriz del Río">
+  <g fill="none" stroke="#a89977" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="10" d="M82 278c-11-23-16-55-12-82l16-15c4-63 30-110 70-138C182 24 218 15 254 15s72 9 98 28c40 28 66 75 70 138l16 15c4 27-1 59-12 82"/>
+    <path stroke-width="7" d="M107 128c35-48 81-71 147-71s112 23 147 71M91 196c45 16 91 27 163 27s118-11 163-27M89 262c45 21 101 31 165 31s120-10 165-31"/>
+    <circle cx="145" cy="212" r="34" stroke-width="8"/><circle cx="363" cy="212" r="34" stroke-width="8"/>
+    <path stroke-width="7" d="M203 119l50 100 52-100M201 116l52 111 54-111M98 279l10 28h30l6-15m226 0 6 15h30l10-28"/>
+  </g>
+  <text x="7" y="189" fill="#fff" font-family="Impact,Arial Narrow,Arial,sans-serif" font-size="169" font-weight="900" letter-spacing="-3" textLength="986" lengthAdjust="spacing">AUTOMOTRIZ</text>
+  <text x="430" y="315" fill="#fff" font-family="Impact,Arial Narrow,Arial,sans-serif" font-size="132" font-weight="900" textLength="560" lengthAdjust="spacingAndGlyphs">“DEL RIO”</text>
+</svg>
